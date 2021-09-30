@@ -4,5 +4,6 @@
   "documentation": "https://github.com/herikw/home-assistant-custom-components",
   "dependencies": [],
   "codeowners": ["@herikw"],
-  "requirements": []
+  "requirements": [],
+  "version": "1.0.7"
 }
